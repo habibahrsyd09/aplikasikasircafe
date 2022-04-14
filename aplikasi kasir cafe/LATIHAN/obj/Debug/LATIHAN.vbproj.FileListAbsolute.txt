@@ -1,0 +1,62 @@
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.exe
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.pdb
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\bin\Debug\LATIHAN.xml
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_MENU.resources
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_LOGIN.resources
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.exe
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.xml
+c:\users\acer\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_BARANG.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KARYAWAN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KELUAR.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_LAPORAN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_MASUK.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_TENTANG.resources
+C:\Users\ACER\documents\visual studio 2012\Projects\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KONEKSI.resources
+F:\LATIHAN\LATIHAN\bin\Debug\LATIHAN.exe.config
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.exe
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.xml
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.pdb
+F:\LATIHAN\LATIHAN\bin\Debug\LATIHAN.exe
+F:\LATIHAN\LATIHAN\bin\Debug\LATIHAN.pdb
+F:\LATIHAN\LATIHAN\bin\Debug\LATIHAN.xml
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_MASUK.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_BARANG.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KARYAWAN.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KELUAR.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_KONEKSI.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_LAPORAN.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_MENU.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_LOGIN.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.FR_TENTANG.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.Resources.resources
+F:\LATIHAN\LATIHAN\obj\Debug\LATIHAN.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\bin\Debug\LATIHAN.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\bin\Debug\LATIHAN.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\bin\Debug\LATIHAN.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\bin\Debug\LATIHAN.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_BARANG.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_KARYAWAN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_KELUAR.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_KONEKSI.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_LAPORAN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_MENU.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_LOGIN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_PREVIEW.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_PENGATURAN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_ADMIN.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.FR_HAKAKSES.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\LATIHAN1\LATIHAN\obj\Debug\LATIHAN.Fr_trAdmin.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\aplikasi kasir cafe\LATIHAN\bin\Debug\LATIHAN.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\aplikasi kasir cafe\LATIHAN\obj\Debug\LATIHAN.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\aplikasi kasir cafe\LATIHAN\obj\Debug\LATIHAN.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\aplikasi kasir cafe\LATIHAN\obj\Debug\LATIHAN.pdb
